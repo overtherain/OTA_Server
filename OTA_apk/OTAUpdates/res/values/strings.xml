@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, OTAUpdates!</string>
+    <string name="app_name">OTAUpdates</string>
+    <string name="updating">Your phone is updating now, please retry later.</string>
+    <string name="download_msg">Coolpad developers are always dedicating to improve the  user experience.New system update(Ver %1$s) is ready for download.\n\nFile Size:%2$sKB\nDescription:%3$s\n\nTip: Download the update package may generate data communication costs.</string>
+    <string name="check_error">Coolpad OTA server is not available now, please retry later.</string>
+    <string name="no_net">Please insert SIM card or enable data connection!</string>
+    <string name="no_card">You need to download upgrade packs to T-Flash card. Please insert T-Flash card and retry.</string>
+    <string name="no_room">Insufficient card space. Please delete some contents and retry.</string>
+    <string name="low_battery">Too low battery, please re-upgrade while battery is enough!</string>
+    <string name="wait">Please wait...</string>
+    <string name="latest">Your phone software version is the latest one.</string>
+    <string name="err_data">Error Data.</string>
+    <string name="err_req">Error request.</string>
+    <string name="cancle">Cancle</string>
+    <string name="download">Download</string>
+    <string name="download_title">Software Download</string>
+    <string name="download_err">OTAUpdates: download err: </string>
+    <string name="updates">Updates</string>
+    <string name="updates_msg">New system update(Ver %1$s) is ready for use.\n\nFile Size:%2$s\nDescription:%3$s\n\nSystem will immediately reboot to start update if you choose Update Now. The software updating might take 10 minutes. During the updating, all the functions will be unavailable, including emergency call. \n\nUpdating doesn\'t affect your personal data.\nIt will automatically reboot after update completed.</string>
+    <string name="updates_title">Software Updates</string>
+    <string name="downloading">Downloading, please wait.</string>
+    <string name="later">Later</string>
+    <string name="no_file">File not exsit.</string>
+     <!-- cg modify 2012-10-13 -->
+    <string name="download_cancle">Download cancle</string>
+    <string name="updates_success">Updates success</string>
+</resources>

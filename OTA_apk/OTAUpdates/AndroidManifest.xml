@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.ota"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".OTAUpdatesActivity"
+                  android:label="@string/app_name"
+                  android:launchMode="singleInstance"
+                  android:screenOrientation="portrait"
+                  >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <!-- cg Alex Fei B -->
+                <category android:name="android.intent.category.LAUNCHER" />
+                <!-- cg Alex Fei E -->
+            </intent-filter>
+        </activity>
+                
+        <receiver android:name=".DownloadReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE"/>
+                <data android:scheme="content" android:mimeType="vnd.android.cursor.item/download"/>
+            </intent-filter>
+        </receiver>
+                
+        <receiver android:name=".AutoUpdatesReceiver">
+            <intent-filter>
+                 <action android:name="android.intent.action.AUTOCHECK"/>
+            </intent-filter>
+		<intent-filter>
+                 <action android:name="android.intent.action.TIME_SET"/>
+            	</intent-filter>
+		<intent-filter >
+			<action android:name="android.intent.action.BOOT_COMPLETED"/>
+		</intent-filter>
+		<intent-filter >
+			<action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+		</intent-filter>
+		<intent-filter>
+                	<action android:name="android.cg.intent.action.AUTOCHECKCHANGED"/>
+            	</intent-filter>
+        </receiver>
+        <service android:name=".CheckNewVerService"/>
+        
+        <service android:name=".download.DownLoadService"
+            android:enabled="true">
+        </service>
+        <receiver android:name=".download.CGDownLoadReceiver">
+            <intent-filter >
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <intent-filter >
+                <action android:name="cg.ota.startdownload" />
+                <action android:name="cg.ota.canceldownload"/>
+                <action android:name="cg.downloadfile.success"/>
+                <action android:name="cg.downloadfile.failed"/>
+            </intent-filter>
+            <intent-filter >
+                <action android:name="android.intent.action.MEDIA_UNMOUNTED"/>
+                <action android:name="android.intent.action.MEDIA_MOUNTED"/>
+                  <data android:scheme="file"/>
+            </intent-filter>
+        </receiver>
+    </application>
+    
+    <uses-sdk android:minSdkVersion="8" />
+
+	<uses-permission android:name="android.permission.INTERNET"/>   
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+	<uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> 
+    <uses-permission android:name="android.permission.WRITE_APN_SETTINGS" /> 
+</manifest> 

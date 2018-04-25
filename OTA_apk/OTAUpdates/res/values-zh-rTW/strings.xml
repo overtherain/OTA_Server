@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, OTAUpdates!</string>
+    <string name="app_name">OTA升級</string>
+    <string name="updating">您的手機正在升級,請稍後再試。</string>
+    <string name="download_msg">酷派開發團隊壹直致力于提升用戶體驗，新的宇龍酷派系統軟件更新包（版本號%1$s）可用。\n\n更新包大小：%2$sKB\n更新說明：%3$s\n\n提示：下載系統更新包可能會産生數據通信費用。</string>
+    <string name="check_error">酷派OTA服務器暫時不可用,請稍後再試。</string>
+    <string name="no_net">請插入手機卡或啓動數據網絡！</string>
+    <string name="no_card">升級包需下載到T卡，請插入T卡後再下載。</string>
+    <string name="no_room">T卡空間不足，請刪除部分內容後再下載。</string>
+    <string name="low_battery">電量過低，請充足電量後再重新升級！</string>
+    <string name="wait">請稍候。。。</string>
+    <string name="latest">您的手機軟件版本已經是最新的。</string>
+    <string name="err_data">服務器返回數據錯誤。</string>
+    <string name="err_req">請求錯誤。</string>
+    <string name="cancle">取消</string>
+    <string name="download">下載</string>
+    <string name="download_title">軟件下載</string>
+    <string name="download_err">OTA升級: 下載出錯: </string>
+    <string name="updates">升級 </string>
+    <string name="updates_msg">宇龍酷派更新包（版本號%1$s）已經准備好。\n\n更新包大小：%2$s\n更新說明：%3$s\n\n選擇更新將立刻重啓手機開始系統更新。系統更新大約需要10分鍾。在此期間，所有手機功能將無法使用，包括緊急呼叫功能。更新不會影響您的個人數據。升級完成後設備將會自動重啓。 </string>
+    <string name="updates_title">軟件升級</string>
+    <string name="downloading">下載中，請稍候。。。</string>
+    <string name="later">稍候</string>
+    <string name="no_file">升級包文件不存在，請重新下載。</string>
+    <!-- cg modify 2012-10-13 -->
+    <string name="download_cancle">下載已取消</string>  
+    <string name="updates_success">升級成功</string>
+</resources>

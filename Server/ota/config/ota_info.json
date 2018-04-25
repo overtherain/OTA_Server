@@ -1,0 +1,8 @@
+{
+    "fileName": "update.zip",
+    "filePath": "/ota_file/update.zip",
+    "description": "Fix bugs",
+    "srcVersion": "112",
+    "dstVersion": "114",
+    "priority": "Mandatory"
+}

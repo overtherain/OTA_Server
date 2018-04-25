@@ -1,0 +1,179 @@
+[2018-04-24T12:07:08.191][ INFO  9619  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:114, IMEI:1233453452, serialno:205123, sessionId:pnXv0BGpoC0Iny25nkPmphgpFz44yMwc
+[2018-04-24T12:07:08.194][ INFO  9619  index] req.session.user : 205123
+[2018-04-24T12:07:09.263][ INFO  9619  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:tUnaMgroW1W_DfXyuQaO4vd1ICEOyxXT
+[2018-04-24T12:07:09.263][ INFO  9619  index] req.session.user : 205123
+[2018-04-24T12:07:09.263][ INFO  9619  index] 文件的MD5是：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T12:07:09.263][ INFO  9619  index] filePath : /root/Server/ota/ota_file/update.zip
+[2018-04-24T12:07:40.477][ INFO  9619  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:tUnaMgroW1W_DfXyuQaO4vd1ICEOyxXT
+[2018-04-24T12:07:40.477][ INFO  9619  index] req.session.user : 205123
+[2018-04-24T12:07:40.477][ INFO  9619  index] 文件的MD5是：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T12:07:40.477][ INFO  9619  index] filePath : /root/Server/ota/ota_file/update.zip
+[2018-04-24T12:08:17.549][ INFO  9619  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:114, IMEI:1233453452, serialno:205123, sessionId:tUnaMgroW1W_DfXyuQaO4vd1ICEOyxXT
+[2018-04-24T12:08:17.549][ INFO  9619  index] req.session.user : 205123
+[2018-04-24T12:08:23.275][ INFO  9619  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:113, IMEI:1233453452, serialno:205123, sessionId:tUnaMgroW1W_DfXyuQaO4vd1ICEOyxXT
+[2018-04-24T12:08:23.275][ INFO  9619  index] req.session.user : 205123
+[2018-04-24T12:15:38.685][ INFO  9619  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:tUnaMgroW1W_DfXyuQaO4vd1ICEOyxXT
+[2018-04-24T12:15:38.685][ INFO  9619  index] req.session.user : 205123
+[2018-04-24T12:15:38.685][ INFO  9619  index] 文件的MD5是：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T12:15:38.685][ INFO  9619  index] filePath : /root/Server/ota/ota_file/update.zip
+[2018-04-24T12:30:13.089][ INFO  9619  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:114, IMEI:1233453452, serialno:205123, sessionId:AB4BlHYFmlqWOdMKGMUjW5_O22mmEVt2
+[2018-04-24T12:30:13.089][ INFO  9619  index] req.session.user : 205123
+[2018-04-24T12:30:26.085][ INFO  9683  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:pQEOZWfzvJOf18sjwvOcJrJp1yahOOES
+[2018-04-24T12:30:26.088][ INFO  9683  index] req.session.user : 205123
+[2018-04-24T12:32:19.649][ INFO  9694  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:J_f0lRQ8_rqvL7vgr1WQLjQK5ziy02CW
+[2018-04-24T12:32:19.652][ INFO  9694  index] req.session.user : 205123
+[2018-04-24T12:32:19.652][ INFO  9694  index] {
+    'OTA_NAME': 'blephone_ota',
+    'CHECK_UPDATE_RESULT': '-1',
+    'fileName': 'update.zip',
+    'filePath': '/ota_file/update.zip',
+    'description': 'Fix bugs',
+    'srcVersion': '112',
+    'dstVersion': '114',
+    'priority': 'Mandatory',
+};
+
+[2018-04-24T12:32:19.652][ INFO  9694  index] 文件的MD5是：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T12:32:19.653][ INFO  9694  index] filePath : /root/Server/ota/ota_file/update.zip
+[2018-04-24T12:33:26.641][ INFO  9704  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:w8iOEDt-pIXn0l-pNQFTlWdW4n7jKJkL
+[2018-04-24T12:33:26.644][ INFO  9704  index] req.session.user : 205123
+[2018-04-24T12:33:26.645][ INFO  9704  index] {
+    'fileName': 'update.zip',
+    'filePath': '/ota_file/update.zip',
+    'description': 'Fix bugs',
+    'srcVersion': '112',
+    'dstVersion': '114',
+    'priority': 'Mandatory',
+};
+
+[2018-04-24T12:35:35.103][ INFO  9718  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:JEbxPHW2ciMI6xufEMMs4x8PnajYFIrm
+[2018-04-24T12:35:35.106][ INFO  9718  index] req.session.user : 205123
+[2018-04-24T13:27:57.277][ INFO  9873  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:R2N09KgqcMsu3LVwEipRbJw5dzzWDpLj
+[2018-04-24T13:27:57.280][ INFO  9873  index] req.session.user : 205123
+[2018-04-24T13:34:10.727][ INFO  9909  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:5CUw4cXsIO2a3hQ3avVss4-3tC8HB-bS
+[2018-04-24T13:34:10.730][ INFO  9909  index] req.session.user : 205123
+[2018-04-24T13:34:10.730][ INFO  9909  index] undefined
+[2018-04-24T13:35:40.253][ INFO  9929  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:SsMN4qoPirrjhOg2WQ4PRMfnma1FNoTQ
+[2018-04-24T13:35:40.256][ INFO  9929  index] req.session.user : 205123
+[2018-04-24T13:35:40.257][ INFO  9929  index] undefined
+[2018-04-24T13:36:51.537][ INFO  9943  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:1sAsY7BlPeO9CZ46kJX_2BZz_fbcfuwX
+[2018-04-24T13:36:51.537][ INFO  9943  index] req.session.user : 205123
+[2018-04-24T13:36:51.538][ INFO  9943  index] undefined
+[2018-04-24T13:38:09.613][ INFO  9973  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:fI14_pYJ9fXDCi2pQhpU71896BGvz0pB
+[2018-04-24T13:38:09.616][ INFO  9973  index] req.session.user : 205123
+[2018-04-24T13:38:09.616][ INFO  9973  index] undefined
+[2018-04-24T13:38:24.859][ INFO  9983  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:RTobYN45ljlwJKNJ_Nebkc232vZHvWne
+[2018-04-24T13:38:24.860][ INFO  9983  index] req.session.user : 205123
+[2018-04-24T13:38:24.860][ INFO  9983  index] undefined
+[2018-04-24T13:38:44.197][ INFO  9997  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:p-B3QuhJ2ZzhdvzToQZlK5cDaxHv1IIC
+[2018-04-24T13:38:44.198][ INFO  9997  index] req.session.user : 205123
+[2018-04-24T13:38:44.198][ INFO  9997  index] undefined
+[2018-04-24T13:40:22.023][ INFO  10041  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:djk3y5A_7IYDkuRszFU_ypEH0pUAQblx
+[2018-04-24T13:40:22.026][ INFO  10041  index] req.session.user : 205123
+[2018-04-24T13:40:22.026][ INFO  10041  index] ota_info:undefined
+[2018-04-24T13:41:01.793][ INFO  10051  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:cLCwOZP5LDxvOX9XrkB-zLFAvI7bs2gR
+[2018-04-24T13:41:01.794][ INFO  10051  index] req.session.user : 205123
+[2018-04-24T13:41:01.795][ INFO  10051  index] ota_info:undefined
+[2018-04-24T13:42:15.847][ INFO  10072  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:aL0Jo9IXYqRaq22Hslth0SNKoDMglCvB
+[2018-04-24T13:42:15.850][ INFO  10072  index] req.session.user : 205123
+[2018-04-24T13:42:15.850][ INFO  10072  index] read file path:/root/Server/ota/config/ota_info.json
+[2018-04-24T13:42:15.850][ INFO  10072  index] ota_info:undefined
+[2018-04-24T14:00:10.817][ INFO  10082  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:tTnfHTKdjQehenAeQ1FjPNNlzgb-MFTR
+[2018-04-24T14:00:10.818][ INFO  10082  index] req.session.user : 205123
+[2018-04-24T14:00:10.818][ INFO  10082  index] read file path:/root/Server/ota/config/ota_info.json
+[2018-04-24T14:00:10.819][ INFO  10082  index] ota_info:undefined
+[2018-04-24T14:00:11.118][ INFO  10082  index] 
+[2018-04-24T14:00:12.896][ INFO  10082  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:tTnfHTKdjQehenAeQ1FjPNNlzgb-MFTR
+[2018-04-24T14:00:12.896][ INFO  10082  index] req.session.user : 205123
+[2018-04-24T14:00:12.896][ INFO  10082  index] read file path:/root/Server/ota/config/ota_info.json
+[2018-04-24T14:00:12.897][ INFO  10082  index] ota_info:undefined
+[2018-04-24T14:00:12.910][ INFO  10082  index] 
+[2018-04-24T14:00:33.008][ INFO  10112  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:AG9Y5IODfZcz9HeKB4xfJrlpj-3x_kjk
+[2018-04-24T14:00:33.012][ INFO  10112  index] req.session.user : 205123
+[2018-04-24T14:00:33.013][ INFO  10112  index] read file path:/root/Server/ota/config/ota_info.json
+[2018-04-24T14:00:33.013][ INFO  10112  index] ota_info:undefined
+[2018-04-24T14:00:33.307][ INFO  10112  index] 
+[2018-04-24T14:06:52.379][ INFO  10163  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:9I9TIDI0DLVArAImMbsrsyw3IMV4jksn
+[2018-04-24T14:06:52.382][ INFO  10163  index] req.session.user : 205123
+[2018-04-24T14:06:52.382][ INFO  10163  index] read file path:/root/Server/ota/config/ota_info.json
+[2018-04-24T14:06:52.382][ INFO  10163  index] ota_info:undefined
+[2018-04-24T14:06:52.683][ INFO  10163  index] 
+[2018-04-24T14:10:16.952][ INFO  10163  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:9I9TIDI0DLVArAImMbsrsyw3IMV4jksn
+[2018-04-24T14:10:16.952][ INFO  10163  index] req.session.user : 205123
+[2018-04-24T14:10:16.952][ INFO  10163  index] read file path:/root/Server/ota/config/ota_info.json
+[2018-04-24T14:10:16.953][ INFO  10163  index] ota_info:undefined
+[2018-04-24T14:10:16.977][ INFO  10163  index] 
+[2018-04-24T14:10:18.791][ INFO  10163  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:9I9TIDI0DLVArAImMbsrsyw3IMV4jksn
+[2018-04-24T14:10:18.791][ INFO  10163  index] req.session.user : 205123
+[2018-04-24T14:10:18.791][ INFO  10163  index] read file path:/root/Server/ota/config/ota_info.json
+[2018-04-24T14:10:18.792][ INFO  10163  index] ota_info:undefined
+[2018-04-24T14:10:18.803][ INFO  10163  index] 
+[2018-04-24T14:11:44.979][ INFO  10208  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:jYEmckIMJKclUT_KmLp8-NtiOBBHo6jP
+[2018-04-24T14:11:44.982][ INFO  10208  index] req.session.user : 205123
+[2018-04-24T14:11:44.983][ INFO  10208  index] read file path:/root/Server/ota/config/ota_info.json
+[2018-04-24T14:11:44.983][ INFO  10208  index] ota_info:undefined
+[2018-04-24T14:11:45.267][ INFO  10208  index] 
+[2018-04-24T14:11:45.267][ INFO  10208  index] 
+[2018-04-24T14:13:14.884][ INFO  10218  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:0B88yUlw9s7ME_mt0cdaKD6GCEL-WbYs
+[2018-04-24T14:13:14.887][ INFO  10218  index] req.session.user : 205123
+[2018-04-24T14:13:15.181][ INFO  10218  index] 
+[2018-04-24T14:13:15.181][ INFO  10218  index] 
+[2018-04-24T14:14:08.447][ INFO  10239  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:_qVELdwkYQ-RUYcDONlkDx4TNHxiqnwB
+[2018-04-24T14:14:08.449][ INFO  10239  index] req.session.user : 205123
+[2018-04-24T14:14:08.450][ INFO  10239  index] ota_info:[object Object]
+[2018-04-24T14:14:08.749][ INFO  10239  index] 
+[2018-04-24T14:14:08.749][ INFO  10239  index] 
+[2018-04-24T14:18:24.570][ INFO  10291  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:uCrpcHAaV6q6TxApXm-bVY9eqFuooBXI
+[2018-04-24T14:18:24.573][ INFO  10291  index] req.session.user : 205123
+[2018-04-24T14:18:24.573][ INFO  10291  index] ota_info:[object Object]
+[2018-04-24T14:18:24.885][ INFO  10291  index] 
+[2018-04-24T14:18:24.885][ INFO  10291  index] 
+[2018-04-24T14:20:57.816][ INFO  10291  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:uCrpcHAaV6q6TxApXm-bVY9eqFuooBXI
+[2018-04-24T14:20:57.817][ INFO  10291  index] req.session.user : 205123
+[2018-04-24T14:20:57.817][ INFO  10291  index] ota_info:[object Object]
+[2018-04-24T14:20:57.831][ INFO  10291  index] 
+[2018-04-24T15:23:46.820][ INFO  10474  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:no1CCz-CmIgX_sWgitMYNZJqRzhfpCrM
+[2018-04-24T15:23:46.823][ INFO  10474  index] req.session.user : 205123
+[2018-04-24T15:23:46.824][ INFO  10474  index] ota_info:[object Object]
+[2018-04-24T15:23:46.824][ INFO  10474  index] 文件的MD5是：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T15:23:46.824][ INFO  10474  index] filePath : /root/Server/ota/ota_file/update.zip
+[2018-04-24T15:27:43.560][ INFO  10509  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:h4duNmD7sIiK6qF1KUFTQlsfd__ghw_X
+[2018-04-24T15:27:43.563][ INFO  10509  index] req.session.user : 205123
+[2018-04-24T15:27:43.563][ INFO  10509  index] 文件的MD5是：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T15:27:43.564][ INFO  10509  index] filePath : /root/Server/ota/ota_file/update.zip
+[2018-04-24T15:29:16.969][ INFO  10552  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:CrxdmDQ78zFlbQUEkxLoMIE1cAZscu0u
+[2018-04-24T15:29:16.972][ INFO  10552  index] req.session.user : 205123
+[2018-04-24T15:29:16.972][ INFO  10552  index] /root/Server/ota/ota_file/update.zip MD5 ：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T15:29:16.972][ INFO  10552  index] filePath : /root/Server/ota/ota_file/update.zip
+[2018-04-24T15:31:12.766][ INFO  10566  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:mbRsBfpUSoNoO2ZyA5LqzshbLYsfQEq-
+[2018-04-24T15:31:12.770][ INFO  10566  index] req.session.user : 205123
+[2018-04-24T15:31:12.770][ INFO  10566  index] /root/Server/ota/ota_file/update.zip MD5 ：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T15:31:12.770][ INFO  10566  index] filePath : /root/Server/ota/ota_file/update.zip
+[2018-04-24T15:50:08.297][ INFO  10566  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:mbRsBfpUSoNoO2ZyA5LqzshbLYsfQEq-
+[2018-04-24T15:50:08.297][ INFO  10566  index] req.session.user : 205123
+[2018-04-24T15:50:08.297][ INFO  10566  index] /root/Server/ota/ota_file/update.zip MD5 ：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T15:50:08.298][ INFO  10566  index] filePath : /root/Server/ota/ota_file/update.zip
+[2018-04-24T15:51:22.736][ INFO  10616  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:tU6wII4tlk7hyP2twwm9bjMAVnJT24Cu
+[2018-04-24T15:51:22.738][ INFO  10616  index] req.session.user : 205123
+[2018-04-24T15:51:22.739][ INFO  10616  index] /root/Server/ota/ota_file/update.zip MD5 ：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T15:51:22.739][ INFO  10616  index] filePath : /root/Server/ota/ota_file/update.zip
+[2018-04-24T15:51:22.739][ INFO  10616  index] md5 : 4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T15:51:22.739][ INFO  10616  index] downloadUrl : http://121.43.183.196:8081/updsvr/ota/ota_file?ssid=tU6wII4tlk7hyP2twwm9bjMAVnJT24Cu&file=update.zip
+[2018-04-24T16:00:09.651][ INFO  10616  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:tU6wII4tlk7hyP2twwm9bjMAVnJT24Cu
+[2018-04-24T16:00:09.651][ INFO  10616  index] req.session.user : 205123
+[2018-04-24T16:00:09.651][ INFO  10616  index] 文件的MD5是：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T16:00:09.651][ INFO  10616  index] filePath : /root/Server/ota/ota_test_file/update.zip
+[2018-04-24T16:00:19.799][ INFO  10616  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:tU6wII4tlk7hyP2twwm9bjMAVnJT24Cu
+[2018-04-24T16:00:19.799][ INFO  10616  index] req.session.user : 205123
+[2018-04-24T16:00:19.800][ INFO  10616  index] 文件的MD5是：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T16:00:19.800][ INFO  10616  index] filePath : /root/Server/ota/ota_test_file/update.zip
+[2018-04-24T16:02:29.005][ INFO  10653  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:YjY36ngSuhKu--q17cQQF7cgqyyiG2Al
+[2018-04-24T16:02:29.008][ INFO  10653  index] req.session.user : 205123
+[2018-04-24T16:02:29.009][ INFO  10653  index] 文件的MD5是：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T16:02:29.009][ INFO  10653  index] filePath : /root/Server/ota/ota_test_file/update.zip
+[2018-04-24T16:02:47.707][ INFO  10664  index] get msg for clent - hardWare:123, hardWareVersion:456, softWareVersion:112, IMEI:1233453452, serialno:205123, sessionId:--KjvTwlfEi05Ifj1sw9htWXxbjg4Di8
+[2018-04-24T16:02:47.710][ INFO  10664  index] req.session.user : 205123
+[2018-04-24T16:02:47.711][ INFO  10664  index] /root/Server/ota/ota_test_file/update.zip MD5 ：4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T16:02:47.711][ INFO  10664  index] filePath : /root/Server/ota/ota_test_file/update.zip
+[2018-04-24T16:02:47.711][ INFO  10664  index] md5 : 4357b8ff5413698e1cf8266f74c7362d
+[2018-04-24T16:02:47.711][ INFO  10664  index] downloadUrl : http://121.43.183.196:8081/updsvr/ota/test/ota_test_file?ssid=--KjvTwlfEi05Ifj1sw9htWXxbjg4Di8&file=update.zip
