@@ -1,0 +1,3 @@
+1. 安装node.js
+2. npm install -g pm2 express-generator
+3. 运行 : run pm2

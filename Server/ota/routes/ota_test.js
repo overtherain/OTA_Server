@@ -29,6 +29,7 @@ router.get('/checkupdate', function(req, res, next) {
         'fileName':'',
         'filePath':'',
         'downloadUrl':'',
+        'size':'',
         'description':'',
         'srcVersion':'',                    //old version
         'dstVersion':'',                    //new version
@@ -41,7 +42,7 @@ router.get('/checkupdate', function(req, res, next) {
     info.dstVersion = '114';
     info.sessionId = sessionId;
     var ota_info_dir = process.cwd() + '/config';
-    var ota_info_path = path.join(ota_info_dir, 'ota_info.json');
+    var ota_info_path = path.join(ota_info_dir, 'ota_test_info.json');
     var ota_info;
     if(fs.existsSync(ota_info_path)){
         ota_info = JSON.parse(fs.readFileSync(ota_info_path));
@@ -56,11 +57,13 @@ router.get('/checkupdate', function(req, res, next) {
         info.description = ota_info.description;
         info.priority = ota_info.priority;
         
-        var dir = process.cwd() + '/ota_test_file';
-        var filePath = path.join(dir, info.fileName);
+        //var dir = process.cwd() + '/ota_file';
+        var filePath = process.cwd() + ota_info.filePath;
         var md5 = getFileMD5(filePath);
         logger.info('filePath : ' + filePath);
-        
+        var otafile = fs.statSync(filePath);
+        info.size = otafile.size + "byte";
+        logger.info('file size : ' + info.size);
         info.md5 = md5;
         logger.info('md5 : ' + md5);
         info.downloadUrl = 'http://121.43.183.196:8081/updsvr/ota/test/ota_test_file?' + 'ssid=' + info.sessionId + '&file=' + info.fileName;

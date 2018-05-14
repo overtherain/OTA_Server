@@ -1,6 +1,6 @@
 {
-    "fileName": "update.zip",
-    "filePath": "/ota_file/update.zip",
+    "fileName": "node-v8_11_1.tgz",
+    "filePath": "/ota_file/node-v8_11_1.tgz",
     "description": "Fix bugs",
     "srcVersion": "112",
     "dstVersion": "114",
