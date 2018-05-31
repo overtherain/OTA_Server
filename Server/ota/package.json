@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "pm2": "pm2 startOrReload ./config/autoRun.json"
+    "pm": "pm2 startOrReload ./config/autoRun.json"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
@@ -14,6 +14,7 @@
     "http-errors": "~1.6.2",
     "log4js": "^2.5.3",
     "morgan": "~1.9.0",
+    "mysql": "^2.15.0",
     "pug": "2.0.0-beta11",
     "supervisor": "^0.12.0",
     "xml2js": "^0.4.19"
